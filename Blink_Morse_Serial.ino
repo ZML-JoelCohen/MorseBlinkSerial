@@ -68,7 +68,7 @@ int parseLetter(char letter) {
   int index = letter - 'a';
   int running_time = 0;
 
-  String morse_sequence = morseCode[letter];
+  String morse_sequence = morseCode[index];
 
   for (int i = 0; i < morse_sequence.length(); i++) {
     char morse_character = morse_sequence[i];

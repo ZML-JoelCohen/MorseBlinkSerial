@@ -1,7 +1,7 @@
 /*
   Title: Blink Morse Serial
   Organization: Zen Maker Lab Inc.
-  Author: joel Cohen
+  Author: Joel Cohen
 
   Description:
 
